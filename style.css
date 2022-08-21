@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica Neue, Arial, sans-serif;
+}
+
+polygon {
+  fill: #42b983;
+  opacity: 0.75;
+}
+
+circle {
+  fill: transparent;
+  stroke: #999;
+}
+
+text {
+  font-family: Helvetica Neue, Arial, sans-serif;
+  font-size: 14px;
+  fill: #666;
+}
+
+label {
+  display: inline-block;
+  margin-left: 14px;
+  width: 100px;
+}
+
+#add {
+  margin-top: 20px;
+  margin-left: 20px;
+}
