@@ -28,3 +28,17 @@ label {
   margin-top: 20px;
   margin-left: 20px;
 }
+
+#demo svg {
+  margin-left: 3rem;
+}
+
+@media screen and (max-width: 900px) {
+  h1 {
+    font-size: 25px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+}
